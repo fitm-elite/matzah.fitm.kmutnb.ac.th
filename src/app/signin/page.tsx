@@ -9,7 +9,6 @@ import FitmLogo from "@matzah/assets/images/fitm-logo.png"
 import IcitLogo from "@matzah/assets/images/icit-logo.png"
 
 export default function Signin () {
-
     return (
         <div className="w-full h-full flex flex-col justify-center items-center">
             <div className="py-10 px-8 flex flex-col justify-center items-center shadow-xl lg:max-w-[30vw] md:max-w-96">
