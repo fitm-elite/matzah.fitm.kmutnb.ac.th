@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 import { MantineProvider } from "@mantine/core";
 
 import "@mantine/core/styles.css"
-import "./globals.css";
+import "@matzah/app/globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
